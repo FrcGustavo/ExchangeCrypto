@@ -1,4 +1,6 @@
-# exchange
+# ExchangeCripto
+
+[Project of the basic course of Vue Js by platzi](https://platzi.com/clases/vuejs/)
 
 ## Project setup
 ```
