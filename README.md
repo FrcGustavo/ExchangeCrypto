@@ -23,3 +23,9 @@ npm run build
 ```bash
 npm run lint
 ```
+
+## Views
+
+![Home of page](./img/home.png)
+
+![Details of page](./img/details.png)
